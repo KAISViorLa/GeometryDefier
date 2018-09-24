@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SiteShooter",
+"dataUrl": "SiteShooter_test.data.unityweb",
+"asmCodeUrl": "SiteShooter_test.asm.code.unityweb",
+"asmMemoryUrl": "SiteShooter_test.asm.memory.unityweb",
+"asmFrameworkUrl": "SiteShooter_test.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
